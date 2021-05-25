@@ -1,0 +1,10 @@
+body {
+    background: #fff;
+    color: #000;
+}
+
+.header-inner {
+    max-width: 650px;
+    text-align: center;
+}
+
